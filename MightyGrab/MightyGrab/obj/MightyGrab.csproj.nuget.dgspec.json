@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrab\\MightyGrab.csproj": {}
+    "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrab\\MightyGrab.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj": {
+    "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj",
+        "projectUniqueName": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj",
         "projectName": "MightyGrabWork",
-        "projectPath": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj",
+        "projectPath": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj",
         "packagesPath": "C:\\Users\\Chris Carter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\obj\\",
+        "outputPath": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrab\\MightyGrab.csproj": {
+    "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrab\\MightyGrab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrab\\MightyGrab.csproj",
+        "projectUniqueName": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrab\\MightyGrab.csproj",
         "projectName": "MightyGrab",
-        "projectPath": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrab\\MightyGrab.csproj",
+        "projectPath": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrab\\MightyGrab.csproj",
         "packagesPath": "C:\\Users\\Chris Carter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrab\\obj\\",
+        "outputPath": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -82,8 +82,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj": {
-                "projectPath": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj"
+              "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj": {
+                "projectPath": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj"
               }
             }
           }

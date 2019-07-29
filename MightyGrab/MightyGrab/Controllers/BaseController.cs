@@ -4,16 +4,18 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MightyGrab.Models;
+using MightyGrab.Views.Base;
 
 namespace MightyGrab.Controllers
 {
     public class BaseController : Controller
     {
-
+        
         
         public IActionResult Index()
         {
-            return View();
+            IndexModel m = new IndexModel();
+            return View(m);
         }
 
         public IActionResult Create()
@@ -21,9 +23,5 @@ namespace MightyGrab.Controllers
             return View(new BaseGrabModel());
         }
 
-        public IActionResult View()
-        {
-            return View(new BaseGrabModel());
-        }
     }
 }

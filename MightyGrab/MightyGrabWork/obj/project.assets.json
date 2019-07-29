@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj",
+      "projectUniqueName": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj",
       "projectName": "MightyGrabWork",
-      "projectPath": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj",
+      "projectPath": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\MightyGrabWork.csproj",
       "packagesPath": "C:\\Users\\Chris Carter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris Carter\\source\\repos\\MightyGrab\\MightyGrabWork\\obj\\",
+      "outputPath": "C:\\Users\\Chris Carter\\Documents\\GitHub\\MightyGrab\\MightyGrab\\MightyGrabWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
